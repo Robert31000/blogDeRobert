@@ -126,17 +126,6 @@ a{
 
 /* DISEÑOS DE ACERCA DE MI */
 
-.disple{
-    display: flex;
-}
-.blog{
-    flex: 2;
-}
-.sider{
-    flex: 1;
-    margin-left: auto;
-
-}
 .entrada{
     border-bottom:1px solid #e1e1e1;
     margin-bottom: 2rem;
