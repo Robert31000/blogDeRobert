@@ -119,3 +119,25 @@ a{
     border-bottom:1px solid #e1e1e1;
     margin-bottom: 2rem;
 }
+
+@media(max-width: 365px){
+    .disple{
+        flex-direction: column;
+    }
+    .sider{
+        width: 100%; /* Ajusta el ancho del aside para que ocupe todo el ancho del dispositivo */
+    margin-left: 0; 
+    }
+}
+.disple{
+    display: flex;
+}
+.blog{
+    flex: 2;
+}
+.sider{
+    flex: 1;
+    margin-left: auto;
+
+}
+/* CURSO  */
