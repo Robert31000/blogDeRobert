@@ -89,6 +89,7 @@ a{
         gap: 2rem;
     }
 }
+
 /* MAIN*/
 
 .sidebar {
@@ -233,4 +234,12 @@ footer {
     background-color: #f2d4cd;
     text-align: center;
     padding: 10px 0;
+}
+#imge, video {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto; /* Centrar horizontalmente */
+    border-radius: 20x;
+    align-items: center;
+    margin: auto;
 }
